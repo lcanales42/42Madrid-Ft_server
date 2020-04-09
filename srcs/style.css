@@ -1,0 +1,30 @@
+section {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section p {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #0B78B3;
+    font-size: 60px;
+    font-family: sans-serif;   
+    font-weight: bold; 
+    text-shadow: 8px 4px 5px #B38C5B;     
+}
+ 
+section a {
+    margin-top: 20px;
+    color: #6DCBFF;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    height: 100vh;
+    background: #FFA530 url("https://www.42madrid.com/wp-content/uploads/2019/12/logo-header@2x-768x176.png") no-repeat center ;
+}
